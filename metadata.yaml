@@ -1,0 +1,30 @@
+_repo: Where-the-forest-murmurs-b-Nature-essays_70192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: https://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+description: ''
+gutenberg_issued: '2023-03-03'
+identifiers:
+  gutenberg: '70192'
+language: en
+pgterms:marc904: https://archive.org/details/whereforestmurmu00maclrich/page/n5/mode/2up
+pgterms:marc905: 20220802184331macleod
+pgterms:marc906: '1906'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUK :$bCountry Life Ltd., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Where the forest murmurs : $b Nature essays'
+url: http://www.gutenberg.org/ebooks/70192
